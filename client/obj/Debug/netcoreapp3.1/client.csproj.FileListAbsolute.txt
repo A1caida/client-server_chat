@@ -1,0 +1,12 @@
+C:\Users\A1caida\source\repos\client-server\client\bin\Debug\netcoreapp3.1\client.exe
+C:\Users\A1caida\source\repos\client-server\client\bin\Debug\netcoreapp3.1\client.deps.json
+C:\Users\A1caida\source\repos\client-server\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.json
+C:\Users\A1caida\source\repos\client-server\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.dev.json
+C:\Users\A1caida\source\repos\client-server\client\bin\Debug\netcoreapp3.1\client.dll
+C:\Users\A1caida\source\repos\client-server\client\bin\Debug\netcoreapp3.1\client.pdb
+C:\Users\A1caida\source\repos\client-server\client\obj\Debug\netcoreapp3.1\client.AssemblyInfoInputs.cache
+C:\Users\A1caida\source\repos\client-server\client\obj\Debug\netcoreapp3.1\client.AssemblyInfo.cs
+C:\Users\A1caida\source\repos\client-server\client\obj\Debug\netcoreapp3.1\client.csproj.CoreCompileInputs.cache
+C:\Users\A1caida\source\repos\client-server\client\obj\Debug\netcoreapp3.1\client.dll
+C:\Users\A1caida\source\repos\client-server\client\obj\Debug\netcoreapp3.1\client.pdb
+C:\Users\A1caida\source\repos\client-server\client\obj\Debug\netcoreapp3.1\client.genruntimeconfig.cache
