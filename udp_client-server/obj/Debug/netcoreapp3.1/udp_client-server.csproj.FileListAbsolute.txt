@@ -1,0 +1,12 @@
+C:\Users\A1caida\source\repos\udp_client-server\udp_client-server\bin\Debug\netcoreapp3.1\udp_client-server.exe
+C:\Users\A1caida\source\repos\udp_client-server\udp_client-server\bin\Debug\netcoreapp3.1\udp_client-server.deps.json
+C:\Users\A1caida\source\repos\udp_client-server\udp_client-server\bin\Debug\netcoreapp3.1\udp_client-server.runtimeconfig.json
+C:\Users\A1caida\source\repos\udp_client-server\udp_client-server\bin\Debug\netcoreapp3.1\udp_client-server.runtimeconfig.dev.json
+C:\Users\A1caida\source\repos\udp_client-server\udp_client-server\bin\Debug\netcoreapp3.1\udp_client-server.dll
+C:\Users\A1caida\source\repos\udp_client-server\udp_client-server\bin\Debug\netcoreapp3.1\udp_client-server.pdb
+C:\Users\A1caida\source\repos\udp_client-server\udp_client-server\obj\Debug\netcoreapp3.1\udp_client-server.AssemblyInfoInputs.cache
+C:\Users\A1caida\source\repos\udp_client-server\udp_client-server\obj\Debug\netcoreapp3.1\udp_client-server.AssemblyInfo.cs
+C:\Users\A1caida\source\repos\udp_client-server\udp_client-server\obj\Debug\netcoreapp3.1\udp_client-server.csproj.CoreCompileInputs.cache
+C:\Users\A1caida\source\repos\udp_client-server\udp_client-server\obj\Debug\netcoreapp3.1\udp_client-server.dll
+C:\Users\A1caida\source\repos\udp_client-server\udp_client-server\obj\Debug\netcoreapp3.1\udp_client-server.pdb
+C:\Users\A1caida\source\repos\udp_client-server\udp_client-server\obj\Debug\netcoreapp3.1\udp_client-server.genruntimeconfig.cache
